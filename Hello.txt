@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 java
 c++
 python
+=======
+java
+html
+css
+js
+jQueryBootstrap 
+
+>>>>>>> git2
